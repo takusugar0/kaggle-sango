@@ -5,7 +5,7 @@
 ### Notebook
 - yolov5-with-akaze.ipynb  
   - yolov5で検出を行った後、TrackingでAKAZEを使用した。
-  - このNotebookで銅メダルを獲得。  
+  - このNotebookでブロンズメダルを獲得。（Top6.6%, 133th/2025)
 - yolov5-with-bytetrack.ipynb  
   - yolov5で検出を行った後、TrackingでByteTrackを使用した。  
   - [ByteTrack](https://github.com/ifzhang/ByteTrack)はコンペ期間時点でSOTAのTrackerであったが、今回のタスクでは機能しなかった。（ByteTrackの内部で走るKalman Filterが適切な予測を出せていなかった）
